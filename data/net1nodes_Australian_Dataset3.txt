@@ -1,0 +1,13 @@
+node	taxon	type
+Tetragonula_carbonaria	bee	1
+Tetragonula_hockingsi	bee	1
+Tetragonula_sapiens	bee	1
+Araucaria	plant	2
+Callitris	plant	2
+Corymbia	plant	2
+Eucalyptus	plant	2
+Lophostemon	plant	2
+Melia	plant	2
+Pinus	plant	2
+Syncarpia	plant	2
+Xanthorrhoea	plant	2
